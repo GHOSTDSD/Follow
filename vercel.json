@@ -2,7 +2,7 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
     "index.py": {
-      "runtime": "python@3.11"
+      "runtime": "vercel-python@0.5.1"
     }
   }
 }
